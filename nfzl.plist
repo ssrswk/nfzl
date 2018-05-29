@@ -13,12 +13,28 @@
 					<key>url</key>
 					<string>https://100.100.100.103:8080/static/nfzl.ipa</string>
 				</dict>
+				<dict>  
+					<key>kind</key>  
+					<string>full-size-image</string>  
+					<key>needs-shine</key>  
+					<true/>  
+					<key>url</key>  
+					<string></string>  
+				</dict>  
+				<dict>  
+					  <key>kind</key>  
+					  <string>display-image</string>  
+					  <key>needs-shine</key>  
+					  <true/>  
+					  <key>url</key>  
+					  <string></string>  
+				</dict>  
 			</array>
 			<key>metadata</key>
 			<dict>
-				<key>CFBundleIdentifier</key>
+				<key>bundle-identifier</key>
 				<string>com.jqkj.nfzl</string>
-				<key>CFBundleInfoDictionaryVersion</key>
+				<key>bundle-version</key>
 				<string>6.0</string>
 				<key>kind</key>
 				<string>software</string>
@@ -31,3 +47,4 @@
 	</array>
 </dict>
 </plist>
+
